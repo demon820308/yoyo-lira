@@ -1,0 +1,5 @@
+name: yoyo-lira-nohead
+title: Write and Edit Images the Lira Way — No-Head Character Sheet Variant
+description: Write lean natural-prose image prompts routed by job, with the Lira three-panel character sheet in no-head form — the front full-body panel is headless and the close-up panel is the only readable face — and edit images surgically with a minimal CHANGE block and an exhaustive PRESERVE block.
+category: Media
+include_in_prompt: false

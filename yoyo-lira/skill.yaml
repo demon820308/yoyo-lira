@@ -1,0 +1,5 @@
+name: yoyo-lira
+title: Write and Edit Images the Lira Way (Lite)
+description: Write lean natural-prose image prompts routed by job, and edit images surgically with a minimal CHANGE block and an exhaustive PRESERVE block.
+category: Media
+include_in_prompt: false
